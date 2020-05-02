@@ -3,7 +3,7 @@
 
 ## Topics:
 
-* [Internet - HTTP](1-intenet-http)
+* [Internet - HTTP](1-internet-http)
 * [Operating systems - Browsers](2-operating-systems-browsers)
 * [Hosting - Domains](3-hosting-domains)
 * [Terminal - GitHub](4-terminal-github)
