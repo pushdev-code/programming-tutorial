@@ -56,7 +56,7 @@ Here, multiple sites share the resources of the server talking about the service
 No downtime, it will redirect to other cluster. With cloud hosting, your provider gives you a cluster of servers. Your files and resources are replicated on each server.
 
 | Type             |      Cost      |  Performance  | Technical knowledge | Server control |
-| :---             |     :---:      |     :---:     |         :---:       |           ---: |
+| :---             |     :---:      |     :---:     |         :---:       |      :---:     |
 | **Dedicated**    |      high      |  normal-high  |         high        |       high     |
 | **Shared**       |      low       |   low-normal  |         low         |       low      |
 | **VPS**          |   low-normal   |   normal-high |         high        |       high     |
@@ -68,10 +68,10 @@ No downtime, it will redirect to other cluster. With cloud hosting, your provide
 
 Domains are web addresses that are used to communicate on the Internet. Once you register a domain name, you can use it as your website address or email address.
 
-* *Domain: **pushdev.co**
-* *IP: 192.168.0.18
+* *Domain: **pushdev.co***
+* *IP: 192.168.0.18*
 
-* Domains names were created to make IP (Internet protocol) addresses mmore human friendly.
+* Domains names were created to make IP (Internet protocol) addresses more human friendly.
 * Imagine to memorize random numbers for every single website you wanted to find on the internet.
 
 When you type www.pushdev.co in the browser the DNS (Domain Name System) will search the domain like the phone directory. Then translate the domain into the IP address, in that way computers can understand it. The same way as humans do with domains names.
