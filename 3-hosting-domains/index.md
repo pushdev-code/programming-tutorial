@@ -100,6 +100,12 @@ pushdev.**co**
 
 You can have various extensions redirecting to the same website.
 
+### Conclusion
+
+1. To have a website, you need a domain and hosting. 
+2. Domain gives people a way to find your website.
+3. Hosting is space on a server where all of your website content resides.
+
 ### Sources
 
 * [What is web hosting](https://medium.com/@singularbean/what-is-web-hosting-9f30c43bf123)
