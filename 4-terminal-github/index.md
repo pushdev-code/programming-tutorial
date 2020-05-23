@@ -22,6 +22,8 @@ Nowadays, we have graphical user interfaces (GUIs) in addition to command line i
 
 ![image](https://user-images.githubusercontent.com/36536646/82505524-94903380-9ac3-11ea-804a-4ef36d6178c9.png)
 
+* However, cmd is relatively limited in today's world. PowerShell (2006) provides command-line syntax and scripting sintax. You can query and manipulate objects far more easily than you can process text. It’s more powerful and uses different commands altogether.
+
 ### List of commands
 
 * [macOS](https://ss64.com/osx/)
@@ -92,6 +94,24 @@ Nowadays, we have graphical user interfaces (GUIs) in addition to command line i
 * Using the shell puts you in full control of your computer and your workflow.
 * You would look like a hacker in front of your friends. 
 
+### Install linux shell Windows 10
+
+* [How to install ](https://ubuntu.com/tutorials/tutorial-ubuntu-on-windows#1-overview)
+
+### Let's play.
+
+* We have the snake game in Linux terminal thanks to nSnake. 
+* Use the command below to install it.
+
+`sudo apt-get install nsnake`
+`nsnake`
+
+![image](https://user-images.githubusercontent.com/36536646/82739872-2f2d8400-9d09-11ea-972d-ebb15e5eb57a.png)
+
+![image](https://user-images.githubusercontent.com/36536646/82739893-48cecb80-9d09-11ea-8563-965cbd510638.png)
+
+[More games](https://itsfoss.com/best-command-line-games-linux/)
+
 # Version Control Systems - GitHub
 
 ## What is Version control?
@@ -101,4 +121,4 @@ Nowadays, we have graphical user interfaces (GUIs) in addition to command line i
 ### Sources
 
 [Shell](http://linuxcommand.org/lc3_lts0010.php)
-
+[Difference between cmd, PowerShell and Bash](https://www.youtube.com/watch?v=nahtw_csB5w)
