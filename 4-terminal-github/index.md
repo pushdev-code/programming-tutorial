@@ -163,6 +163,7 @@ GitHub is a cloud based platform built around the Git tool.
 
 ### Sources
 
-[Shell](http://linuxcommand.org/lc3_lts0010.php)
-[Difference between cmd, PowerShell and Bash](https://www.youtube.com/watch?v=nahtw_csB5w)
-[Git vs GitHub](https://kinsta.com/knowledgebase/git-vs-github/)
+* [Shell](http://linuxcommand.org/lc3_lts0010.php)
+* [Difference between cmd, PowerShell and Bash](https://www.youtube.com/watch?v=nahtw_csB5w)
+* [Git vs GitHub](https://kinsta.com/knowledgebase/git-vs-github/)
+* SWEBOK, 6: IEEE Computer Society. SWEBOK: Guide to the Software Engineering Body of Knowledge, 2014.
