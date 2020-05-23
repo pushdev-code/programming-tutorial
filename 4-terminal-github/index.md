@@ -93,6 +93,7 @@ Nowadays, we have graphical user interfaces (GUIs) in addition to command line i
 * If you want to learn Git, you should learn how to use the shell.
 * Using the shell puts you in full control of your computer and your workflow.
 * You would look like a hacker in front of your friends. 
+* If you want to be a Git master you must know how to use the terminal.
 
 ### Install linux shell Windows 10
 
@@ -114,11 +115,54 @@ Nowadays, we have graphical user interfaces (GUIs) in addition to command line i
 
 # Version Control Systems - GitHub
 
+Tool that allow to identify, store and control access to the different versions of the components.
+
+Many different version management systems are available, including widely used open source systems like CVS, Subversion, GitHub, GitLab,
+Bitbucket etc.
+
+![image](https://user-images.githubusercontent.com/61557537/82740684-bdf1cf00-9d10-11ea-81cc-c9648cdf9f83.png)
+
 ## What is Version control?
 
+* Version management: Process of monitoring the different versions of software components or configuration items, and the systems where these components are used.
+
+![image](https://user-images.githubusercontent.com/61557537/82740458-86822300-9d0e-11ea-9d21-6c8477e0eb21.png)
+
+* Changes made to such versions by different developers do not interfere with each other.
+
+Advantages:
+
+* Don't lose track of changes and versions.
+* Avoid problems with the existence of several functional versions of the system.
+* Optimize time and reduce errors.
+* All changes made to the code of a system or component are logged and listed.
+* It involves tagging components with keywords that describe the changes made.
+
+![image](https://user-images.githubusercontent.com/61557537/82740835-fa71fa80-9d11-11ea-9327-1e360ed0cb2e.png)
+
 ## What is Git and GitHub?
+
+* Git is a revision control system, a tool to manage your source code history.
+* GitHub is a hosting service for Git repositories.
+
+So they are not the same thing: Git is the tool, GitHub is the service for projects that use Git.
+
+![image](https://user-images.githubusercontent.com/61557537/82740843-0d84ca80-9d12-11ea-9255-2a4d3d25aeda.png)
+
+### Git
+
+Git is a distributed version control tool that can manage a development project's source code history.
+
+### GitHub
+
+GitHub is a cloud based platform built around the Git tool.
+
+* Different developers may work on the same component at the same time.
+* The version management system tracks the components that have been marked for editing.
+* It also ensures that changes made to a component by different developers do not interfere.
 
 ### Sources
 
 [Shell](http://linuxcommand.org/lc3_lts0010.php)
 [Difference between cmd, PowerShell and Bash](https://www.youtube.com/watch?v=nahtw_csB5w)
+[Git vs GitHub](https://kinsta.com/knowledgebase/git-vs-github/)
