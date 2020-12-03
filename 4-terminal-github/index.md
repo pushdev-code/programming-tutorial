@@ -56,31 +56,31 @@ Nowadays, we have graphical user interfaces (GUIs) in addition to command line i
 * linux: `$ ls`
 * windows: `$ dir`
 
-#### Create a new folder
+#### Create new folder
 
 * macOS: `$ mkdir name_of_your_folder`
 * linux: `$ mkdir name_of_your_folder`
 * windows: `$ mkdir name_of_your_folder`
 
-#### Create a new file
+#### Create new file
 
 * macOS: `$ echo "hello push" > myfile.txt`
 * linux: `$ echo "hello push" > myfile.txt`
 * windows: `$ echo "hello push" > myfile.txt`
 
-#### Check the content of the file
+#### Check file content
 
 * macOS: `$ type myfile.txt`
 * linux: `$ cat myfile.txt`
 * windows: `$ type myfile.txt`
 
-#### Remove a file
+#### Remove file
 
 * macOS: `$ rm myfile.txt`
 * linux: `$ rm myfile.txt`
 * windows: `$ del myfile.txt`
 
-#### Remove a folder
+#### Remove folder
 
 * macOS: `$ rmdir name_of_your_folder`
 * linux: `$ rmdir name_of_your_folder`
